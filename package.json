@@ -1,6 +1,6 @@
 {
   "name": "@cjarero183006/cli-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared UI components and utilities for building beautiful CLI applications",
   "type": "module",
   "main": "dist/index.js",
